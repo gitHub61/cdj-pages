@@ -86,3 +86,4 @@ const result = cdjPages('w')
 [devdependency-url]: https://david-dm.org/zce/cdj-pages?type=dev
 [style-img]: https://img.shields.io/badge/code_style-standard-brightgreen
 [style-url]: https://standardjs.com
+# cdj-pages
